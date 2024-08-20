@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+<head>
+    <style>
+        ol {
+            font-size: 14px;
+            color: red;
+        }
+    </style>
+</head>
